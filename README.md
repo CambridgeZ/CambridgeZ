@@ -1,5 +1,5 @@
 # Hay !
-- 👋 Hi, I’m @CamberidgeZhao
+- 👋 Hi, I’m @CambridgeZ. I am a college student majoring in CS.
 
 
 <!---
