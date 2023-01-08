@@ -22,6 +22,17 @@ You can click the Preview link to take a look at your changes.
 
 ###   Commit Stats
 
-![](https://github-readme-stats.vercel.app/api?username=CambridgeZ&count_private=true&show_icons=true&theme=radical&show_owner=true)
+![](https://github-readme-stats.vercel.app/api?username=CambridgeZ&count_private=true&show_icons=true&theme=tokyonight&show_owner=true)
 
-![](https://github-profile-trophy.vercel.app/?username=CambridgeZ&theme=radical&row=1)
+![](https://github-profile-trophy.vercel.app/?username=CambridgeZ&theme=tokyonight&row=1)
+
+###   Commit Stats
+
+![](https://github-readme-stats.vercel.app/api?username=AnoyiX&count_private=true&show_icons=true&theme=tokyonight&show_owner=true)
+
+![](https://github-profile-trophy.vercel.app/?username=AnoyiX&theme=tokyonight&row=1)
+
+
+###   Top Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CambridgeZ&layout=compact&theme=dark)
