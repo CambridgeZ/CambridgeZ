@@ -7,6 +7,7 @@ CamberidgeZhao/CamberidgeZhao is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+### 📚 My Skills
 
 <p align=>
   <a href="https://skillicons.dev">
@@ -18,3 +19,9 @@ You can click the Preview link to take a look at your changes.
 ![统计](https://github-readme-stats.vercel.app/api?username=CameridgeZhao&show_icons=false)
 ![代码](https://github-readme-stats.vercel.app/api/top-langs?username=CameridgeZhao&show_icons=true)
 --->
+
+###   Commit Stats
+
+![](https://github-readme-stats.vercel.app/api?username=CambridgeZ&count_private=true&show_icons=true&theme=radical&show_owner=true)
+
+![](https://github-profile-trophy.vercel.app/?username=CambridgeZ&theme=radical&row=1)
