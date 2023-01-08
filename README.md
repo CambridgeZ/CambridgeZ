@@ -25,11 +25,6 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://github-profile-trophy.vercel.app/?username=CambridgeZ&theme=dark&row=1)
 
-###  🖥 Commit Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AnoyiX&count_private=true&show_icons=true&theme=dark&show_owner=true)
-
-![](https://github-profile-trophy.vercel.app/?username=AnoyiX&theme=dark&row=1)
 
 
 ###  ⌨️ Top Languages
