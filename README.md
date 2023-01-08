@@ -1,7 +1,8 @@
 # 👋Hay !
 My ![Visitor Count](https://profile-counter.glitch.me/CambridgeZ/count.svg) visitor
 
-- 👋 I’m @CambridgeZ. I am a college student majoring in CS.
+### 👋 About 
+I’m @CambridgeZ. I am a college student majoring in CS.
 
 
 <!---
