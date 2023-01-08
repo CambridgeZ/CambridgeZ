@@ -1,5 +1,5 @@
 # 👋Hay !
-My ![Visitor Count](https://profile-counter.glitch.me/CambridgeZ/count.svg) visitor
+Welcome, my ![Visitor Count](https://profile-counter.glitch.me/CambridgeZ/count.svg) visitor
 
 ### 👋 About 
 I’m @CambridgeZ, a college student majoring in CS.
