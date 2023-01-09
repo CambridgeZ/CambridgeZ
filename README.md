@@ -37,5 +37,5 @@ You can click the Preview link to take a look at your changes.
 ### Connect with me
 <p align="left">
 <a href="https://codeforces.com/profile/cambridgechao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cambridgechao" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cambridgechao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cambridgechao" height="30" width="40" /></a>
+<a href="https://www.leetcode.cn/cambridgechao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cambridgechao" height="30" width="40" /></a>
 </p>
