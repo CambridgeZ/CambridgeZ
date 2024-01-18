@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align=>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,git,html,css,js,latex,vscode,linux,md,mysql,github,py,c,cpp,java,idea,stackoverflow,matlab,anaconda&perline=8" />
+    <img src="https://skillicons.dev/icons?i=,git,html,css,js,latex,vscode,linux,md,mysql,github,py,c,cpp,java,idea,stackoverflow,matlab,anaconda,vue&perline=8" />
   </a>
 </p>
 
