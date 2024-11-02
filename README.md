@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 ###  ⌨️ Top Languages
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CambridgeZ&theme=dark&hide=html,JupyterNotebook)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CambridgeZ&theme=dark&hide=html,jupyter%20notebook)
 
 ### Connect with me
 <p align="left">
