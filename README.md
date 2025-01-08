@@ -1,6 +1,4 @@
 
-![background-w60](https://user-images.githubusercontent.com/85283092/211194809-9d0d70f3-40fb-4a35-a07f-ad1cd4be3e65.jpeg)
-
 # 👋Hay !
 Welcome, my ![Visitor Count](https://profile-counter.glitch.me/CambridgeZ/count.svg) visitor
 
