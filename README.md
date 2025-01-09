@@ -4,7 +4,7 @@
 Welcome, my ![Visitor Count](https://profile-counter.glitch.me/CambridgeZ/count.svg) visitor
 
 ### 👋 About Me
-I’m [@CambridgeZ](https://github.com/CambridgeZ), a student majoring in SE in the USTC.
+I’m [@CambridgeZ](https://github.com/CambridgeZ), a student majoring in SE in the [USTC](https://www.ustc.edu/).
 
 
 <!---
