@@ -6,7 +6,6 @@ Welcome, my ![Visitor Count](https://profile-counter.glitch.me/CambridgeZ/count.
 ### 👋 About Me
 Hi, I'm **CambridgeZ**  
 - 🎓 Pursuing a degree in Software Engineering at [University of Science and Technology of China](https://www.ustc.edu.cn/) (USTC)  
-- 🔭 Currently Designing storage engine as an Intern at [Ant Group](https://www.antgroup.com/)  
 - 💻 Trying to be an open-source contributor @ [GitHub](https://github.com/CambridgeZ)
 
 
