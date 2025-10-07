@@ -5,7 +5,7 @@ Welcome, my visitor
 
 ### 👋 About Me
 Hi, I'm **CambridgeZ**  
-- 🎓 Pursuing a degree in Software Engineering at [University of Science and Technology of China](https://www.ustc.edu.cn/) (USTC)  
+- 🎓 Pursuing a degree in Software Engineering @[University of Science and Technology of China](https://www.ustc.edu.cn/) (USTC)  
 - 💻 Trying to be an open-source contributor @ [GitHub](https://github.com/CambridgeZ)
 - 👨‍💻 Software Engineer Intern @[Microsoft](https://www.microsoft.com/)
 
