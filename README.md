@@ -35,10 +35,6 @@ Hi, I'm **CambridgeZ**
   <img src="https://github-readme-stats.vercel.app/api?username=CambridgeZ&count_private=true&show_icons=true&theme=dark&show_owner=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CambridgeZ&theme=dark&row=1&column=7" />
-</p>
-
 ---
 
 ### ⌨️ Top Languages
