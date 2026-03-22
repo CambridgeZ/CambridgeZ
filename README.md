@@ -40,7 +40,7 @@ Hi, I'm **CambridgeZ**
 ### ⌨️ Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CambridgeZ&theme=dark&hide=html,jupyter%20notebook&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CambridgeZ&theme=dark&hide=html,jupyter%20notebook" />
 </p>
 
 ---
@@ -51,4 +51,6 @@ Hi, I'm **CambridgeZ**
   <a href="https://codeforces.com/profile/cambridgechao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
   &nbsp;&nbsp;
   <a href="https://www.leetcode.cn/cambridgechao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  &nbsp;&nbsp;
+  <a href="http://www.cambridgez.xyz/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Personal Website" height="30" width="40" /></a>
 </p>
