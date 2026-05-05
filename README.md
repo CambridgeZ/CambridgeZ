@@ -23,7 +23,7 @@ Hi, I'm **CambridgeZ**
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,latex,vscode,linux,md,mysql,visualstudio,github,py,c,cpp,java,idea,stackoverflow,matlab,anaconda,vue,postman,vite,spring,maven,wordpress,cmake,redis,cs,vim&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,latex,vscode,linux,md,mysql,visualstudio,github,py,c,cpp,java,idea,stackoverflow,matlab,anaconda,vue,postman,vite,spring,maven,wordpress" />
   </a>
 </p>
 
@@ -32,7 +32,12 @@ Hi, I'm **CambridgeZ**
 ### 👨🏻‍💻 Commit Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CambridgeZ&count_private=true&show_icons=true&theme=dark&show_owner=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CambridgeZ&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CambridgeZ&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CambridgeZ&theme=github_dark&utcOffset=8" />
 </p>
 
 ---
@@ -40,7 +45,8 @@ Hi, I'm **CambridgeZ**
 ### ⌨️ Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CambridgeZ&theme=dark&hide=html,jupyter%20notebook&layout=compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CambridgeZ&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CambridgeZ&theme=github_dark" />
 </p>
 
 ---
@@ -48,7 +54,7 @@ Hi, I'm **CambridgeZ**
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://codeforces.com/profile/cambridgechao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/cambridgechao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cambridgechao" height="30" width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.leetcode.cn/cambridgechao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://www.leetcode.cn/cambridgechao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cambridgechao" height="30" width="40" /></a>
 </p>
