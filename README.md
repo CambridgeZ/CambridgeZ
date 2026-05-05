@@ -23,7 +23,7 @@ Hi, I'm **CambridgeZ**
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,latex,vscode,linux,md,mysql,visualstudio,github,py,c,cpp,java,idea,stackoverflow,matlab,anaconda,vue,postman,vite,spring,maven,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,latex,vscode,linux,md,mysql,visualstudio,github,py,c,cpp,java,idea,stackoverflow,matlab,anaconda,vue,postman,vite,spring,maven,wordpress,cs,windows" />
   </a>
 </p>
 
