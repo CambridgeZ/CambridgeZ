@@ -35,9 +35,6 @@ Hi, I'm **CambridgeZ**
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CambridgeZ&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CambridgeZ&theme=github_dark" />
-</p>
 
 ---
 
