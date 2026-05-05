@@ -37,7 +37,6 @@ Hi, I'm **CambridgeZ**
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CambridgeZ&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CambridgeZ&theme=github_dark&utcOffset=8" />
 </p>
 
 ---
