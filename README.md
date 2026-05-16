@@ -32,7 +32,7 @@ Hi, I'm **CambridgeZ**
 ### 👨🏻‍💻 Commit Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CambridgeZ&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CambridgeZ&theme=nord_dark" />
 </p>
 
 
@@ -41,8 +41,8 @@ Hi, I'm **CambridgeZ**
 ### ⌨️ Top Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CambridgeZ&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CambridgeZ&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CambridgeZ&theme=nord_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CambridgeZ&theme=nord_dark" />
 </p>
 
 ---
