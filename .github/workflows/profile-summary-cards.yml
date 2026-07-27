@@ -16,7 +16,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: vn7n24fzkq/github-profile-summary-cards@4a9822e91a20eae650b9591769569976f0d578ba
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -25,4 +25,19 @@ jobs:
           BRANCH_NAME: main
           UTC_OFFSET: 8
           THEME: nord_dark
-          AUTO_PUSH: true
+          AUTO_PUSH: false
+      - name: Commit cards that can be refreshed with GITHUB_TOKEN
+        run: |
+          # The automatic token cannot query contribution details. Preserve the
+          # locally generated profile and stats cards instead of deleting them.
+          git restore --source=HEAD -- \
+            profile-summary-card-output/nord_dark/0-profile-details.svg \
+            profile-summary-card-output/nord_dark/3-stats.svg
+          git add profile-summary-card-output
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update profile summary cards"
+          git push
