@@ -15,23 +15,13 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
-
-```
-![](https://raw.githubusercontent.com/CambridgeZ/CambridgeZ/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
-```
-
-
-
----
-
 ![](./1-repos-per-language.svg)
 
 ```
 ![](https://raw.githubusercontent.com/CambridgeZ/CambridgeZ/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
 ```
 
-
+    
 
 ---
 
@@ -41,17 +31,7 @@
 ![](https://raw.githubusercontent.com/CambridgeZ/CambridgeZ/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
 ```
 
-
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/CambridgeZ/CambridgeZ/main/profile-summary-card-output/nord_dark/3-stats.svg)
-```
-
-
+    
 
 ---
 
@@ -61,4 +41,4 @@
 ![](https://raw.githubusercontent.com/CambridgeZ/CambridgeZ/main/profile-summary-card-output/nord_dark/4-productive-time.svg)
 ```
 
-
+    
