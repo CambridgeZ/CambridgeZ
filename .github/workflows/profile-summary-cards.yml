@@ -17,22 +17,45 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-      - uses: vn7n24fzkq/github-profile-summary-cards@4a9822e91a20eae650b9591769569976f0d578ba
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: CambridgeZ
-          BRANCH_NAME: main
-          UTC_OFFSET: 8
-          THEME: nord_dark
-          AUTO_PUSH: false
-      - name: Commit cards that can be refreshed with GITHUB_TOKEN
+      - name: Refresh available cards
         run: |
-          # The automatic token cannot query contribution details. Preserve the
-          # locally generated profile and stats cards instead of deleting them.
-          git restore --source=HEAD -- \
-            profile-summary-card-output/nord_dark/0-profile-details.svg \
-            profile-summary-card-output/nord_dark/3-stats.svg
+          base_url="https://github-profile-summary-cards.vercel.app/api/cards"
+          output_dir="profile-summary-card-output/nord_dark"
+          mkdir -p "$output_dir"
+
+          refresh_card() {
+            endpoint="$1"
+            destination="$2"
+            extra_query="${3:-}"
+            temporary_file="$(mktemp)"
+
+            if curl --fail --location --silent --show-error \
+              --retry 3 --max-time 60 \
+              "$base_url/$endpoint?username=CambridgeZ&theme=nord_dark$extra_query" \
+              --output "$temporary_file" && \
+              ! grep --quiet --extended-regexp \
+                "ERROR!!!|temporarily rate limited|Something went wrong" \
+                "$temporary_file"; then
+              mv "$temporary_file" "$output_dir/$destination"
+            else
+              rm -f "$temporary_file"
+              echo "Keeping the last valid $destination"
+            fi
+          }
+
+          refresh_card profile-details 0-profile-details.svg
+          refresh_card repos-per-language 1-repos-per-language.svg
+          refresh_card most-commit-language 2-most-commit-language.svg
+          refresh_card stats 3-stats.svg
+          refresh_card productive-time 4-productive-time.svg "&utcOffset=8"
+
+          # Keep the long profile organization label clear of the chart.
+          sed -i \
+            's/University of Science and Technology of China/USTC/g' \
+            "$output_dir/0-profile-details.svg"
+
+      - name: Commit refreshed cards
+        run: |
           git add profile-summary-card-output
           if git diff --cached --quiet; then
             exit 0
