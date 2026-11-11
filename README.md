@@ -1,56 +1,70 @@
 <div align="center">
-  <img src="https://github.com/CambridgeZ/CambridgeZ/blob/main/IMG_4919.JPG" width="100%" />
+  <img src="./assets/mountain-banner.jpg" alt="Sunlit mountain peaks beneath a cloudy sky" width="100%" />
+
+  <h1>Hi, I'm CambridgeZ 👋</h1>
+
+  <p><strong>Software engineering · Open source · Always learning</strong></p>
+
+  <p>
+    <a href="https://www.cambridgez.xyz/">Personal website</a>
+    &nbsp; · &nbsp;
+    <a href="#about-me">About me</a>
+    &nbsp; · &nbsp;
+    <a href="#toolbox">Toolbox</a>
+    &nbsp; · &nbsp;
+    <a href="#github-activity">GitHub activity</a>
+  </p>
 </div>
 
-<h1 align="center">👋 Hey! Welcome, my visitor</h1>
+## About me
 
-<!---
-CambridgeZ/CambridgeZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 Pursuing a degree in **Software Engineering** at [USTC](https://www.ustc.edu.cn/).
+- 👨‍💻 Software Engineer Intern at [Microsoft](https://www.microsoft.com/).
+- 🌱 Learning, building, and working toward contributing to [open source](https://github.com/CambridgeZ).
 
-### 🧑‍💻 About Me
+## Toolbox
 
-Hi, I'm **CambridgeZ**
+**Languages**
 
-- 🎓 Pursuing a degree in Software Engineering @ [University of Science and Technology of China](https://www.ustc.edu.cn/) (USTC)
-- 💻 Trying to be an open-source contributor @ [GitHub](https://github.com/CambridgeZ)
-- 👨‍💻 Software Engineer Intern @ [Microsoft](https://www.microsoft.com/)
+`C` `C++` `C#` `Java` `Python` `JavaScript`
 
----
+**Web &amp; backend**
 
-### 📚 My Skills
+`HTML` `CSS` `Vue` `Vite` `Spring` `Maven` `MySQL` `WordPress`
+
+**Tools &amp; platforms**
+
+`Git` `GitHub` `Linux` `Windows` `VS Code` `Visual Studio` `IntelliJ IDEA` `Postman` `Stack Overflow`
+
+**Research &amp; writing**
+
+`LaTeX` `Markdown` `MATLAB` `Anaconda`
+
+## GitHub activity
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,latex,vscode,linux,md,mysql,visualstudio,github,py,c,cpp,java,idea,stackoverflow,matlab,anaconda,vue,postman,vite,spring,maven,wordpress,cs,windows" />
-  </a>
+  <img src="./profile-summary-card-output/nord_dark/0-profile-details.svg" alt="CambridgeZ's GitHub contributions and profile details" width="700" />
+</p>
+
+### Top languages
+
+<p align="center">
+  <img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most-used languages by commit" width="340" />
+  <img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Most-used languages by repository" width="340" />
+</p>
+
+## Connect with me
+
+<p align="center">
+  <a href="https://www.cambridgez.xyz/">Personal website</a>
+  &nbsp; · &nbsp;
+  <a href="https://codeforces.com/profile/cambridgechao">Codeforces</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.leetcode.cn/cambridgechao">LeetCode</a>
 </p>
 
 ---
 
-### 👨🏻‍💻 Commit Stats
-
 <p align="center">
-  <img src="profile-summary-card-output/nord_dark/0-profile-details.svg" alt="CambridgeZ's GitHub profile details" />
-</p>
-
-
----
-
-### ⌨️ Top Languages
-
-<p align="center">
-  <img src="profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="CambridgeZ's top languages by commit" />
-  <img src="profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="CambridgeZ's top languages by repository" />
-</p>
-
----
-
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://codeforces.com/profile/cambridgechao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cambridgechao" height="30" width="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.leetcode.cn/cambridgechao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cambridgechao" height="30" width="40" /></a>
+  <sub>Thanks for stopping by. Happy building!</sub>
 </p>
