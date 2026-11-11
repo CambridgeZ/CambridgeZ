@@ -26,27 +26,19 @@
 
 **Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js&amp;theme=dark" alt="C, C++, C#, Java, Python, and JavaScript" />
-</p>
+`C` `C++` `C#` `Java` `Python` `JavaScript`
 
 **Web &amp; backend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,vue,vite,spring,maven,mysql,wordpress&amp;theme=dark" alt="HTML, CSS, Vue, Vite, Spring, Maven, MySQL, and WordPress" />
-</p>
+`HTML` `CSS` `Vue` `Vite` `Spring` `Maven` `MySQL` `WordPress`
 
 **Tools &amp; platforms**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,visualstudio,idea,postman,stackoverflow&amp;theme=dark" alt="Git, GitHub, Linux, Windows, VS Code, Visual Studio, IntelliJ IDEA, Postman, and Stack Overflow" />
-</p>
+`Git` `GitHub` `Linux` `Windows` `VS Code` `Visual Studio` `IntelliJ IDEA` `Postman` `Stack Overflow`
 
 **Research &amp; writing**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=latex,md,matlab,anaconda&amp;theme=dark" alt="LaTeX, Markdown, MATLAB, and Anaconda" />
-</p>
+`LaTeX` `Markdown` `MATLAB` `Anaconda`
 
 ## GitHub activity
 
