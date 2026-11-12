@@ -26,19 +26,35 @@
 
 **Languages**
 
-`C` `C++` `C#` `Java` `Python` `JavaScript`
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js&amp;theme=dark&amp;perline=6" alt="C, C++, C#, Java, Python, and JavaScript" />
+  </a>
+</p>
 
 **Web &amp; backend**
 
-`HTML` `CSS` `Vue` `Vite` `Spring` `Maven` `MySQL` `WordPress`
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,vue,vite,spring,maven,mysql,wordpress&amp;theme=dark&amp;perline=6" alt="HTML, CSS, Vue, Vite, Spring, Maven, MySQL, and WordPress" />
+  </a>
+</p>
 
 **Tools &amp; platforms**
 
-`Git` `GitHub` `Linux` `Windows` `VS Code` `Visual Studio` `IntelliJ IDEA` `Postman` `Stack Overflow`
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,visualstudio,idea,postman,stackoverflow&amp;theme=dark&amp;perline=6" alt="Git, GitHub, Linux, Windows, VS Code, Visual Studio, IntelliJ IDEA, Postman, and Stack Overflow" />
+  </a>
+</p>
 
 **Research &amp; writing**
 
-`LaTeX` `Markdown` `MATLAB` `Anaconda`
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=latex,md,matlab,anaconda&amp;theme=dark&amp;perline=6" alt="LaTeX, Markdown, MATLAB, and Anaconda" />
+  </a>
+</p>
 
 ## GitHub activity
 
