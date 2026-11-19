@@ -19,7 +19,7 @@
 ## About me
 
 - 🎓 Pursuing a degree in **Software Engineering** at [USTC](https://www.ustc.edu.cn/).
-- 👨‍💻 Software Engineer Intern at [Microsoft](https://www.microsoft.com/).
+- 👨‍💻 Ex-Software Engineer Intern at [Microsoft](https://www.microsoft.com/) at [AntGroup](https://www.antgroup.com/)
 - 🌱 Learning, building, and working toward contributing to [open source](https://github.com/CambridgeZ).
 
 ## Toolbox
